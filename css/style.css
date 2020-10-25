@@ -1,0 +1,61 @@
+
+body{
+
+
+}
+
+.padding-top{
+	padding-top:50px;
+}
+
+
+.background-img{
+  background: url(../img/hi.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
+
+
+.background-grey{
+    background-color: #d5dde0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.heading1{
+  font-family: 'Staatliches', cursive;
+  font-size: 31px;
+  text-transform: uppercase;
+}
+
+
+.copy-text{
+
+}
+
+.image-header-style{
+	    width: 100%;
+}
+
+.section{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.white{
+	background-color: white;
+}
+
+
+.fixed-top.scrolled {
+  background-color: #fff !important;
+  transition: background-color 200ms linear;
+}
+
+.fixed-top.scrolled .nav-link {
+  color:#555;
+}
